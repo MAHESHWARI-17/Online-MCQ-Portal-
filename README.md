@@ -38,16 +38,14 @@ Online MCQ Exam is an exam system for students.
 <img width="1919" height="933" alt="Screenshot 2025-10-03 141320" src="https://github.com/user-attachments/assets/0ea9e433-90cd-4ff8-b80c-30053c74009e" />
 <img width="1915" height="979" alt="Screenshot 2025-10-03 141721" src="https://github.com/user-attachments/assets/05652b3f-d7c3-44e4-bf84-386ea3f014c2" />
 <img width="1919" height="1020" alt="Screenshot 2025-10-03 144759" src="https://github.com/user-attachments/assets/9f3d6575-f1cf-4020-9cca-8d56475a5738" />
-![ScreenShot](https://i.imgur.com/ZBc6nO2.png})
-![ScreenShot](https://i.imgur.com/fuTvlNM.png})
+<img width="1897" height="691" alt="image" src="https://github.com/user-attachments/assets/5793a6ac-90d4-4683-ab5e-01429b56c876" />
+<img width="1452" height="930" alt="image" src="https://github.com/user-attachments/assets/734c97f6-069c-480e-ac00-021c251d2585" />
+<img width="1330" height="929" alt="image" src="https://github.com/user-attachments/assets/04d0daeb-d84e-45d5-a0f1-fecdb2c04bb7" />
+
 
 
 ### Default User Logins
-If you are logging as a student at the front panel try logging with the following username
-```
-username: 22i329@psgtech.ac.in
-pass: 123
-```
+If you are logging as a student at the front panel,do signin and login using the same.
 
 If you are logging at the *admin area* login via the following credentials
 
@@ -56,14 +54,9 @@ username: admin
 pass: admin123
 ```
 
-### Development
-
-Want to contribute? Great! Fork the project and send me pull request. I would definitely would love to see the option to take exams via specific subjects.
-
-
 ### Todos
 
- - More features
+ -More Admin features
 
 License
 ----
@@ -72,7 +65,6 @@ Apache Version 2
 
 
 **Free Software, Hell Yeah!**
-=======
-# Online-MCQ-Portal-
->>>>>>> 9329e75e8ccd7c3cb8825453579a5978076da2a0
+
+
 
