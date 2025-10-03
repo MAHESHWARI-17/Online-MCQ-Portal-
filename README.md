@@ -35,7 +35,9 @@ Online MCQ Exam is an exam system for students.
 ### Screenshot
 ![ScreenShot](https://i.imgur.com/jQFhHpQ.png})
 ![ScreenShot](https://i.imgur.com/WLGQAzp.png})
-![ScreenShot](https://i.imgur.com/0CL9lqj.png})
+<img width="1919" height="933" alt="Screenshot 2025-10-03 141320" src="https://github.com/user-attachments/assets/0ea9e433-90cd-4ff8-b80c-30053c74009e" />
+<img width="1915" height="979" alt="Screenshot 2025-10-03 141721" src="https://github.com/user-attachments/assets/05652b3f-d7c3-44e4-bf84-386ea3f014c2" />
+<img width="1919" height="1020" alt="Screenshot 2025-10-03 144759" src="https://github.com/user-attachments/assets/9f3d6575-f1cf-4020-9cca-8d56475a5738" />
 ![ScreenShot](https://i.imgur.com/ZBc6nO2.png})
 ![ScreenShot](https://i.imgur.com/fuTvlNM.png})
 
@@ -43,15 +45,15 @@ Online MCQ Exam is an exam system for students.
 ### Default User Logins
 If you are logging as a student at the front panel try logging with the following username
 ```
-username: saif@paypal.com
-pass: 123456
+username: 22i329@psgtech.ac.in
+pass: 123
 ```
 
 If you are logging at the *admin area* login via the following credentials
 
 ```
-username: local
-pass: local
+username: admin
+pass: admin123
 ```
 
 ### Development
@@ -73,3 +75,4 @@ Apache Version 2
 =======
 # Online-MCQ-Portal-
 >>>>>>> 9329e75e8ccd7c3cb8825453579a5978076da2a0
+
